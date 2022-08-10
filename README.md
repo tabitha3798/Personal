@@ -1,6 +1,3 @@
-# Sample
-For practice
+# Personal
 
-This is a directory for practicing Git-hub. 
-Every file in here is not meaningful.
-Haha. 
+This is a directory for uploading personal documents. 
